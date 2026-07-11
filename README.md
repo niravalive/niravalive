@@ -1,5 +1,16 @@
-#  About Me:
-I am a MERN Stack Developer who uses modern tools to build high-quality websites.<br>I always strive for perfection and love researching new languages. I can learn any tech field<br>quickly and I'm always expanding my knowledge. By leveraging the latest development<br>techniques, I work efficiently to deliver great results. 
+# Hi, I'm Nirav Chaudhari 👋
+
+I am the **Founder of SellNex & Fury Esports**, deeply passionate about science, logical thinking, and tech innovation. Based in Surat, Gujarat, I specialize in MERN Stack Development, Video Editing, and Performance Marketing.
+
+### 🚀 About Me
+- 🏢 Founder & Owner at **[SellNex](https://sellnex.in)** and **Fury Esports**
+- 💻 Tech geek, scaling businesses with logic and data
+- 🎵 Music Artist (Track: Fallen)
+
+### 🔗 Let's Connect
+- 🌐 [My Linktree](YOUR_LINKTREE_URL)
+- 💼 [LinkedIn](YOUR_LINKEDIN_URL)
+- 📸 [Instagram](YOUR_INSTAGRAM_URL) 
 
 
 ##  Socials:
