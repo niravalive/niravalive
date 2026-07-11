@@ -8,9 +8,9 @@ I am the **Founder of SellNex & Fury Esports**, deeply passionate about science,
 - 🎵 Music Artist (Track: Fallen)
 
 ### 🔗 Let's Connect
-- 🌐 [My Linktree](YOUR_LINKTREE_URL)
-- 💼 [LinkedIn](YOUR_LINKEDIN_URL)
-- 📸 [Instagram](YOUR_INSTAGRAM_URL) 
+- 🌐 [My Linktree](https://linktr.ee/niravalive)
+- 💼 [LinkedIn](https://www.linkedin.com/in/niravalive/)
+- 📸 [Instagram](https://www.instagram.com/niravalive/) 
 
 
 ##  Socials:
